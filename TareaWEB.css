@@ -1,0 +1,359 @@
+
+
+body{
+  
+    
+}
+
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    padding: 20px 0;
+    margin: 0;
+}
+
+h5{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: normal;
+    color: white;
+    margin: 0;
+
+}
+#Header{
+
+background-color: #00897B;
+   
+
+ height: 147px;
+}
+
+.perfil {
+    margin-top: -122px;
+    margin-left: 18px;
+}
+
+/* Icono de llamada*/
+
+#Header > div:nth-child(2) > div.llamada > img{
+	margin-left: 225px;
+    margin-top: 16px;
+}
+
+
+
+
+/* Icono ubicación*/
+   
+#Header > div:nth-child(2) > div.ubic > img{
+
+	margin-left: 463px;
+    margin-top: -22px;
+    float: left;
+}
+    
+ #Header > div:nth-child(2) > div.Hotmail > img{
+ 	    float: left;
+    margin-left: 808px;
+    margin-top: -21px;
+ }
+
+/* classs de face*/
+
+.face {
+    margin-top: 26px;
+}
+
+/* icono de face*/
+
+img.face {
+    margin-top: 4px;
+    margin-left: 218px;
+    /* background: red; */
+}
+
+div#parrafo_face {
+    margin-left: 214px;
+    /* margin-top: 5px; */
+}
+
+
+.body-izquierdo {
+    margin-left: -98px;
+}
+
+
+
+img.experience {
+    margin-top: 4px;
+    margin-left: 218px;
+}
+
+div#parrafo_experience {
+    margin-left: 214px;
+}
+
+
+img.corazon {
+    margin-top: 4px;
+    margin-left: 218px;
+}
+
+div#parrafo_colaborador {
+    margin-left: 214px;
+}
+
+
+
+
+
+.body-derecho {
+    margin-left: 731px;
+    margin-top: -325px;
+}
+
+
+
+
+.lenguaje {
+    margin-left: -174px;
+}
+
+
+div#parrafo_lenguaje {
+    margin-left: 222px;
+}
+
+
+
+div#parrafo_web {
+        margin-left: 503px;
+}
+
+div#imagen {
+    margin-top: -84px;
+}
+
+img.web {
+    margin-left: 420px;
+}
+
+
+div#imagen_estrella {
+    margin-left: 988px;
+    margin-top: -86px;
+}
+
+div#parrafo_information {
+    margin-left: 999px;
+}
+
+
+.body-medio {
+    margin-top: 47px;
+    margin-left: 58px;
+}
+
+
+.footer {
+    margin-top: -51px;
+    margin-left: 59px;
+}
+
+
+.skils {
+    margin-left: 31px;
+    margin-top: 75px;
+}
+
+div#parrafo1norte:hover{
+	background-color: #00897B;
+	color: white
+}
+
+div#parrafo1norte {
+    height: 57px;
+    font-family: sans-serif;
+    font-weight: 400;
+    background: #e5e8ef;
+    padding: 20px;
+    width: 213px;
+    margin-left: 40px;
+    margin-top: 38px;
+    background: ##f5f5f5;
+}
+div#parrafo2norte:hover{
+	background-color: #00897B;
+	color: white
+}
+
+div#parrafo2norte {
+      height: 59px;
+    width: 240px;
+    margin-left: 397px;
+    margin-top: -98px;
+    font-family: sans-serif;
+    font-weight: 400;
+    background: #e5e8ef;
+    padding: 20px
+}
+
+div#parrafo3norte:hover{
+	background-color: #00897B;
+	color: white
+}
+div#parrafo3norte {
+    height: 63px;
+    width: 240px;
+    margin-left: 822px;
+    margin-top: -97px;
+    font-family: sans-serif;
+    font-weight: 400;
+    background: #e5e8ef;
+    padding: 20px;
+}
+div#parrafo1centro:hover{
+	background-color: #00897B;
+	color: white
+}
+
+div#parrafo1centro {
+    width: 213px;
+    height: 62px;
+    margin-left: 40px;
+    margin-top: 38px;
+    font-family: sans-serif;
+    font-weight: 400;
+    background: #e5e8ef;
+    padding: 20px;
+}
+
+
+div#parrafo2centro:hover{
+	background-color: #00897B;
+	color: white
+}
+div#parrafo2centro {
+        height: 62px;
+    width: 240px;
+    margin-left: 393px;
+    margin-top: -99px;
+    font-family: sans-serif;
+    font-weight: 400;
+    background: #e5e8ef;
+    padding: 20px;
+}
+
+div#parrafo3centro:hover{
+	background-color: #00897B;
+	color: white
+}
+
+div#parrafo3centro {
+   height: 64px;
+    width: 240px;
+    margin-left: 819px;
+    margin-top: -99px;
+    font-family: sans-serif;
+    font-weight: 400;
+    background: #e5e8ef;
+    padding: 20px;
+}
+
+
+
+div#parrafo1sur:hover{
+	background-color: #00897B;
+	color: black;
+}
+div#parrafo1sur {
+        width: 213px;
+    height: 78px;
+    margin-left: 40px;
+    margin-top: 38px;
+    font-family: sans-serif;
+    font-weight: 400;
+    background: #e5e8ef;
+    padding: 20px;
+}
+
+
+
+
+div#parrafo2sur:hover{
+	background-color: #00897B;
+	color: white;
+}
+
+
+div#parrafo2sur:active {
+    color: black;
+}
+
+div#parrafo2sur {
+    height: 76px;
+    width: 666px;
+    margin-left: 393px;
+    margin-top: -117px;
+    font-family: sans-serif;
+    font-weight: 400;
+    background: #e5e8ef;
+    padding: 20px;
+}
+
+img.profesional {
+    margin-top: -190px;
+    margin-left: -49px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ #llamda{
+ 	margin-left: 265px;
+    margin-top: -99px;
+    color: white;
+ }
+
+div#ubicacion {
+    margin-left: 500px;
+    margin-top: -21px;
+    color: white;
+}
+
+div#correo {
+    color: white;
+    margin-left: 849px;
+    margin-top: -18px;
+}
+
+
+
+
+#texto{
+
+	    margin-left: -640px;
+}
+
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+  
+
+
